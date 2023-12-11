@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "morse_encode_decode.h": "c",
-        "process_a_b.h": "c"
-    },
-    "files.watcherExclude": {
-        "**/target": true
-    }
-}
